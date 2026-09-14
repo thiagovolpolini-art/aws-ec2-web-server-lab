@@ -1,2 +1,12 @@
-# aws-ec2-web-server-lab
-Laboratório prático de AWS EC2 com Amazon Linux, VPC, Apache HTTP Server e publicação de página web.
+☁️ AWS EC2 Web Server Lab
+
+📌 Sobre o projeto
+🎯 Objetivo
+🛠️ Tecnologias utilizadas
+🏗️ Arquitetura
+⚙️ Configuração da EC2
+🌐 Configuração de rede
+💻 Instalação do Apache
+📄 Publicação da página
+📸 Evidências
+🧠 O que aprendi
