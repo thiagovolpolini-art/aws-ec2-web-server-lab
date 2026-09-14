@@ -111,19 +111,19 @@ Após a publicação, o arquivo `projects.html` ficou disponível através do se
 
 A página HTML foi acessada através do navegador utilizando o servidor web hospedado na EC2.
 
-![Página web funcionando](imagens/pagina-web.png)
+![Página web funcionando](images/pagina-web.png)
 
 ### Configuração pelo terminal
 
 Utilização do terminal da instância para criação e publicação do arquivo HTML.
 
-![Terminal EC2](imagens/terminal-ec2.png)
+![Terminal EC2](images/terminal-ec2.png)
 
 ### Apache em execução
 
 O log do sistema da instância confirmou a configuração do serviço `httpd`.
 
-![Log do HTTPD](imagens/log-httpd.png)
+![Log do HTTPD](images/log-httpd.png)
 
 ---
 
